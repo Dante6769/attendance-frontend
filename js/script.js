@@ -1,5 +1,5 @@
 // Replace with your deployed backend URL
-const BACKEND_URL = "https://attendance-backend-1-jmbo.onrender.com";
+const BACKEND_URL = "https://attendance-backend-ih2t.onrender.com";
 
 // ===========================
 // STUDENT LOGIN + MARK ATTENDANCE
